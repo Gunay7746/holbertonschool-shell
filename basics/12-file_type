@@ -1,3 +1,2 @@
 #!/bin/bash
-file -b --mime-type /tmp/iamafile
-
+file /tmp/iamafile
